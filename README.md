@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, Seja bem vindo(a) 👋
 
-<!--
-**Zayma1/Zayma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Zaymã Kinsiona e gosto de programar 😴☕
 
-Here are some ideas to get you started:
+# Main Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://skillicons.dev/icons?i=java,spring,python,maven,mysql,ts&theme=dark)](https://skillicons.dev)
+
+
+
+
+## Projetos que contribui:
+- [Estudante+](https://github.com/KevinGirelli/estudante-mais): Uma plataforma de gestão escolar onde atuei desenvolvendo o back-end da aplicação
+
+## Network
+[![](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/zaymakinsiona/)
+[![](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/zaymakinsiona/)
